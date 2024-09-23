@@ -21,3 +21,13 @@ validated by analyzing fecal metagenomes from newly recruited independent cohort
 the full picture of the associations among the gut microbiome and common diseases, which will guide further mechanistic, 
 therapeutics, and disease-specific studies.
 
+
+## Description
+### `Figure 1 ~ 6`
+Contains the corresponding code and data.
+
+### `scripts`
+Contains the code used for processing data.
+
+### `data`
+Contains the `MetaPhlan4` abundance table for all samples, as well as the sample grouping sample.group. When using `sample.group`, you only need to use the columns `c("Sample","Group","Project","Project_1")`. These columns represent the `sample name`, `sample group (Control or Disease)`, `project classification (author + year + disease type)`, and `project source (author + year)`, respectively.

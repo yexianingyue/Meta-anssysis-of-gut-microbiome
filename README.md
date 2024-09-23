@@ -23,7 +23,7 @@ therapeutics, and disease-specific studies.
 
 
 ## Description
-### `Figure 1 ~ 6`
+### `Figure 1 ~ 5`
 Contains the corresponding code and data.
 
 ### `scripts`
